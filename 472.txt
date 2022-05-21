@@ -1,0 +1,16 @@
+Bucuresti Nord, 0
+Ploiesti Vest, 59
+Campina, 92
+Sinaia, 121
+Busteni, 129
+Predeal, 140
+Brasov, 166
+Codlea, 180
+Fagaras, 231
+Sibiu, 315
+Sebes Alba, 389
+Vintu de Jos, 397
+Simeria, 441
+Deva, 450
+Arad, 599
+Curtici, 616

@@ -1,0 +1,14 @@
+Bucuresti Nord, 0
+Videle, 51
+Rosiori Nord, 100
+Caracal, 156
+Craiova, 209
+Filiasi, 245
+Balota, 304
+Drobeta Turnu Severin, 323
+Orsova, 347
+Baile Herculane, 364
+Caransebes, 435
+Lugoj, 474
+Timisoara Nord, 533
+Arad, 590

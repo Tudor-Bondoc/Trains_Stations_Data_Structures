@@ -1,0 +1,29 @@
+Brasov, 0
+Darste, 6
+Timisu de Jos hc, 11
+Timisu de Sus Hm, 16
+Predeal, 26
+Azuga, 33
+Busteni, 37
+Poiana Tapului hc, 40
+Sinaia, 45
+Sinaia Sud hc, 47
+Valea Larga Hm, 50
+Posada hc, 55
+Comarnic, 60
+Breaza Nord, 63
+Nistoresti hc, 66
+Breaza hc, 69
+Campina, 74
+Bobolia h, 79
+Floresti Prahova, 88
+Buda, 100
+Ploiesti Vest, 107
+Brazi, 115
+Prahova, 122
+Crivina, 127
+Scrovistea hc, 131
+Peris, 136
+Buftea, 149
+Chitila, 157
+Bucuresti Nord, 166

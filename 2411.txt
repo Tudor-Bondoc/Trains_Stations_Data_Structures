@@ -1,0 +1,25 @@
+Sibiu, 0
+Sibiu hc, 2
+Turnisor, 4
+Cristian Sibiu, 15
+Orlat, 20
+Sibiel hc, 23
+Sacelu Sibiului hc, 26
+Saliste, 30
+Aciliu hc, 32
+Apoldu de Sus, 43
+Apoldu de Jos hc, 49
+Miercurea Sibiu, 52
+Baile Miercurea hc, 57
+Cunta, 60
+Cut hc, 65
+Rahau hc, 68
+Sebes Alba, 74
+Sebes Glod hc, 76
+Vintu de Jos, 82
+Alba Iulia, 92
+Barabant, 96
+Santimbru, 101
+Santimbru hc, 103
+Coslariu, 107
+Teius, 111

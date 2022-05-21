@@ -1,0 +1,20 @@
+Bucuresti Nord, 0
+Videle, 51
+Rosiori Nord, 100
+Draganesti Olt, 138
+Caracal, 156
+Craiova, 209
+Filiasi, 245
+Carbunesti, 291
+Targu Jiu, 316
+Valea Sadului, 336
+Petrosani, 366
+Banita, 378
+Subcetate, 416
+Calan, 432
+Simeria, 446
+Deva, 455
+Ilia, 479
+Savirsin, 519
+Radna, 569
+Arad, 604

@@ -1,0 +1,15 @@
+Bucuresti Nord, 0
+Ploiesti Sud, 59
+Mizil, 93
+Buzau, 128
+Ramnicu Sarat, 161
+Focsani, 199
+Marasesti, 219
+Adjud, 244
+Bacau, 302
+Roman, 346
+Pascani, 386
+Dolhasca, 407
+Veresti, 432
+Suceava, 447
+Suceava Nord, 450

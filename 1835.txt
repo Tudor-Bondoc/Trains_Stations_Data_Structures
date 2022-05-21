@@ -1,0 +1,19 @@
+Bucuresti Nord, 0
+Videle, 51
+Rosiori Nord, 100
+Draganesti Olt, 138
+Caracal, 156
+Craiova, 209
+Filiasi, 245
+Carbunesti, 291
+Targu Jiu, 316
+Valea Sadului, 336
+Petrosani, 366
+Subcetate, 416
+Calan, 432
+Simeria, 446
+Orastie, 463
+Sibot, 475
+Vintu de Jos, 490
+Alba Iulia, 500
+Teius, 519

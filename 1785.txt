@@ -1,0 +1,5 @@
+Bucuresti Nord, 0
+Titu, 48
+Gaesti, 70
+Golesti, 100
+Pitesti, 108

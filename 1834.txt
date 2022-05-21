@@ -1,0 +1,41 @@
+Timisoara Nord, 0
+Vinga, 32
+Sag Hm, 40
+Aradu Nou, 51
+Arad, 57
+Santana, 80
+Chisineu Cris, 104
+Ciumeghiu, 128
+Salonta, 138
+Oradea, 178
+Alesd, 213
+Suncuius, 232
+Bratca, 238
+Ciucea, 258
+Huedin, 280
+Aghires, 302
+Cluj Napoca, 330
+Gherla, 375
+Dej Calatori, 389
+Beclean pe Somes, 413
+Salva, 435
+Nasaud, 441
+Ilva Mica, 461
+Magura Ilvei, 478
+Lunca Ilvei, 492
+Vatra Dornei Bai h, 535
+Vatra Dornei, 536
+Iacobeni, 546
+Mestecanis, 552
+Pojorata, 567
+Campulung Moldovenesc, 573
+Campulung Est, 577
+Vama, 589
+Frasin, 598
+Gura Humorului Oras, 605
+Suceava, 652
+Veresti, 667
+Dolhasca, 692
+Pascani, 713
+Targu Frumos, 744
+Iasi, 789

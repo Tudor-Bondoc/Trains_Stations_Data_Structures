@@ -1,0 +1,25 @@
+Iasi, 0
+Letcani, 14
+Movileni hc, 23
+Potingeni hc, 30
+Larga Jijia, 35
+Vladeni, 46
+Iacobenii Vechi hc, 51
+Soldana, 55
+Andrieseni hc, 59
+Rediu, 63
+Rauseni hc, 67
+Todireni, 73
+Jijia hc, 82
+Zlatunoaia, 87
+Trusesti, 96
+Buhaceni hc, 101
+Dangeni, 107
+Dangeni Nord hc, 112
+Ungureni, 120
+Mandresti hc, 125
+Vorniceni, 132
+Mateieni hc, 136
+Corlateni hc, 141
+Carasa hc, 143
+Dorohoi, 154

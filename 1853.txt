@@ -1,0 +1,12 @@
+Bucuresti Nord, 0
+Ploiesti Sud, 59
+Buzau, 128
+Ramnicu Sarat, 161
+Focsani, 199
+Marasesti, 219
+Adjud, 244
+Bacau, 302
+Roman, 346
+Pascani Triaj h, 384
+Targu Frumos, 415
+Iasi, 460

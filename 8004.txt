@@ -1,0 +1,41 @@
+Constanta, 0
+Palas, 4
+Valu lui Traian, 11
+Murfatlar hc, 15
+Basarabi, 18
+Poarta Alba hc, 23
+Dorobantu, 27
+Castelu hc, 30
+Medgidia, 35
+Mircea Voda, 45
+Saligny Gr. Est, 53
+Cernavoda Pod, 59
+Dunarea Hm, 64
+Ovidiu, 71
+Ramificatia Borcea, 74
+Fetesti, 79
+Baraganu, 89
+Stefan cel Mare hc, 94
+Jegalia, 98
+Recolta hc, 102
+Perisoru, 104
+Ogoarele hc, 107
+Ciulnita, 116
+Ivanesti hc, 123
+Dragos Voda, 129
+Bogdana h, 132
+Dalga Hm, 140
+Dor Marunt, 147
+Dor Marunt Sat h, 150
+Lehliu, 155
+Preasna Hm, 164
+Sarulesti, 171
+Mostistea hc, 177
+Fundulea, 183
+Islaz, 193
+Branesti, 195
+Branesti Sat hc, 197
+Pasarea, 202
+Pantelimon, 208
+Bucuresti Baneasa, 218
+Bucuresti Nord, 225

@@ -1,0 +1,31 @@
+Bucuresti Nord, 0
+Depoul Buc. Triaj h, 7
+Chitila, 9
+Buftea, 17
+Darza hc, 21
+Peris, 30
+Scrovistea hc, 35
+Crivina, 39
+Prahova, 44
+Brazi, 51
+Ploiesti Triaj hc, 56
+Ploiesti Vest, 59
+Buda, 66
+Floresti Prahova, 78
+Bobolia h, 87
+Campina, 92
+Breaza hc, 97
+Nistoresti hc, 100
+Breaza Nord, 103
+Comarnic, 106
+Posada hc, 111
+Sinaia Sud hc, 119
+Sinaia, 121
+Poiana Tapului hc, 126
+Busteni, 129
+Azuga, 133
+Predeal, 140
+Timisu de Sus Hm, 150
+Timisu de Jos hc, 155
+Darste, 160
+Brasov, 166

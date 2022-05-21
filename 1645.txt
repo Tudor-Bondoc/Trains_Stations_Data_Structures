@@ -1,0 +1,20 @@
+Bucuresti Nord, 0
+Ploiesti Vest, 59
+Campina, 92
+Sinaia, 121
+Busteni, 129
+Azuga, 133
+Predeal, 140
+Timisu de Sus Hm, 150
+Brasov, 166
+Sfantu Gheorghe, 198
+Baile Tusnad Hm, 232
+Miercurea Ciuc, 261
+Siculeni, 269
+Izvoru Oltului, 286
+Izvoru Muresului, 297
+Gheorgheni, 316
+Toplita, 350
+Deda, 394
+Reghin, 416
+Targu Mures, 448

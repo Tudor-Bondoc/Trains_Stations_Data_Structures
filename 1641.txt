@@ -1,0 +1,32 @@
+Bucuresti Nord, 0
+Ploiesti Vest, 59
+Floresti Prahova, 78
+Campina, 92
+Sinaia, 121
+Busteni, 129
+Azuga, 133
+Predeal, 140
+Brasov, 166
+Sfantu Gheorghe, 198
+Baile Tusnad Hm, 232
+Miercurea Ciuc, 261
+Siculeni, 269
+Izvoru Oltului, 286
+Izvoru Muresului, 297
+Gheorgheni, 316
+Toplita, 350
+Deda, 394
+Saratel, 441
+Beclean pe Somes, 466
+Dej Calatori, 490
+Catcau, 503
+Galgau, 513
+Ileanda, 529
+Rastoci, 536
+Letca, 543
+Jibou, 566
+Benesat, 584
+Ulmeni Salaj, 593
+Miresu Mare hm, 599
+Satulung pe Somes, 609
+Baia Mare, 624

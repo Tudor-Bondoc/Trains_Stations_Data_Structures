@@ -1,0 +1,42 @@
+Iasi, 0
+Targu Frumos, 45
+Pascani, 76
+Dolhasca, 97
+Veresti, 122
+Suceava, 137
+Gura Humorului Oras, 184
+Frasin, 191
+Vama, 200
+Campulung Est, 212
+Campulung Moldovenesc, 216
+Pojorata, 222
+Mestecanis, 237
+Iacobeni, 243
+Vatra Dornei, 253
+Vatra Dornei Bai h, 254
+Lunca Ilvei, 297
+Magura Ilvei, 311
+Ilva Mica, 328
+Nasaud, 348
+Salva, 354
+Beclean pe Somes, 376
+Dej Calatori, 400
+Gherla, 414
+Cluj Napoca, 459
+Campia Turzii, 510
+Razboieni, 527
+Unirea hc, 531
+Aiud, 548
+Teius, 561
+Alba Iulia, 580
+Vintu de Jos, 590
+Sibot, 605
+Orastie, 617
+Simeria, 634
+Deva, 643
+Ilia, 667
+Savirsin, 707
+Radna, 757
+Arad, 792
+Aradu Nou, 798
+Timisoara Nord, 849

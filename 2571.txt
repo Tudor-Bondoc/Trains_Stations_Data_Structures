@@ -1,0 +1,15 @@
+Sibiu, 0
+Sibiu hc, 2
+Ocna Sibiului, 10
+Baile Ocna Sibiului hc, 12
+Mandra h, 18
+Loamnes Hm, 20
+Hasag hc, 24
+Veseud h, 28
+Seica Mare hc, 32
+Seica Mare, 34
+Agarbiciu hc, 38
+Axente Sever h, 42
+Copsa Mica, 45
+Tarnava hc, 51
+Medias, 56

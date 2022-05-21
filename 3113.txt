@@ -1,0 +1,28 @@
+Timisoara Nord, 0
+Ronat Triaj Gr. D, 7
+Sinandrei, 13
+Baile Calacea, 20
+Ortisoara, 26
+Vinga, 32
+Sag Hm, 40
+Valea Viilor Hm, 45
+Aradu Nou, 51
+Arad, 57
+Utvinisu Nou Hm, 64
+Utvinis hc, 67
+Zimandu Nou hc, 70
+Santana, 80
+Comlaus hc, 84
+Simand, 92
+Nadab, 99
+Chisineu Cris, 104
+Zerind, 112
+Tamasda, 119
+Boiu Bihor hc, 124
+Ciumeghiu, 128
+Salonta, 138
+Madaras Bihor hc, 141
+Cefa, 150
+Gepiu hc, 155
+Oradea Vest, 172
+Oradea, 178

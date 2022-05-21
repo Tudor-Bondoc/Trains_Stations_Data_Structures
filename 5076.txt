@@ -1,0 +1,13 @@
+Buzau, 0
+Baile Sarata Monteoru hc, 11
+Ulmeni, 16
+Clondiru, 20
+Sahateni, 28
+Mizil, 35
+Inotesti, 42
+Tomsani hc, 47
+Cricov, 52
+Muru hc, 54
+Valea Calugareasca, 58
+Ploiesti Est, 65
+Ploiesti Sud, 69

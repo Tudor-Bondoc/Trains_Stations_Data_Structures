@@ -1,0 +1,24 @@
+Bucuresti Nord, 0
+Parc Divertisment Chiajna, 14
+Videle, 51
+Galateni, 67
+Olteni, 74
+Vartoapele hc, 80
+Rosiori Nord, 100
+Radomiresti, 126
+Draganesti Olt, 138
+Stoenesti, 145
+Caracal, 156
+Craiova, 209
+Craiova Triaj hc, 212
+Filiasi, 245
+Turceni, 265
+Rovinari, 301
+Targu Jiu, 324
+Valea Sadului, 344
+Lainici, 355
+Petrosani, 374
+Subcetate, 424
+Calan, 440
+Simeria, 454
+Deva, 463

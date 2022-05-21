@@ -1,0 +1,13 @@
+Bucuresti Nord, 0
+Videle, 51
+Rosiori Nord, 100
+Radomiresti, 126
+Draganesti Olt, 138
+Caracal, 156
+Piatra Olt, 189
+Dragasani, 223
+Babeni, 256
+Govora, 264
+Ramnicu Valcea, 276
+Calimanesti, 292
+Pausa h, 294

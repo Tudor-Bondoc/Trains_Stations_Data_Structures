@@ -1,0 +1,27 @@
+Cluj Napoca, 0
+Huedin, 50
+Poieni, 65
+Valea Draganului hc, 68
+Ciucea, 72
+Negreni h, 74
+Lacu Crisului h, 78
+Piatra Craiului, 82
+Bulz, 86
+Stana de Vale hc, 88
+Bratca, 92
+Balnaca hc, 94
+Suncuius, 98
+Vadu Crisului hc, 103
+Vadu Crisului, 105
+Butan Hm, 110
+Alesd hc, 115
+Alesd, 117
+Tetchea hc, 120
+Telechiu Hm, 124
+Tileagd, 129
+Sabolciu hc, 134
+Sacadat Hm, 136
+Osorhei, 142
+Oradea Est Triaj h, 147
+Oradea Est, 148
+Oradea, 152

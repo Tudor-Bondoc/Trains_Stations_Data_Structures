@@ -1,0 +1,20 @@
+Maneciu, 0
+Gheaba 2, 1
+Maneciu Pamanteni hc, 3
+Izvoarele hc, 4
+Homoriciu Hm, 8
+Teisani, 11
+Valeni Nord, 15
+Valenii de Munte, 18
+PO Gura Vitioarei, 20
+Faget Teleajen, 23
+Magurele Prahova N. hc, 24
+Magurele Prahova, 27
+Magurele Sud hc, 29
+Lipanesti hc, 33
+Boldesti hc, 35
+Scaeni, 37
+Blejoi, 41
+Ploiesti Nord, 45
+Ploiesti E. P. 1 h, 48
+Ploiesti Sud, 51

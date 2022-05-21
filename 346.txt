@@ -1,0 +1,14 @@
+Bucuresti Nord, 0
+Ploiesti Vest, 59
+Sinaia, 121
+Predeal, 140
+Brasov, 166
+Sighisoara, 294
+Medias, 333
+Blaj, 374
+Coslariu, 394
+Alba Iulia, 409
+Simeria, 463
+Deva, 472
+Arad, 621
+Curtici, 638

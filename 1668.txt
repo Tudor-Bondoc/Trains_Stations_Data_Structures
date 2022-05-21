@@ -1,0 +1,13 @@
+Iasi, 0
+Nicolina, 2
+Buhaiesti, 44
+Vaslui, 67
+Crasna, 83
+Barlad, 120
+Tecuci, 170
+Focsani, 207
+Ramnicu Sarat, 245
+Buzau, 278
+Mizil, 313
+Ploiesti Sud, 347
+Bucuresti Nord, 406

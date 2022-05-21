@@ -1,0 +1,18 @@
+Suceava, 0
+Suceava Nord, 3
+Darmanesti, 11
+Milisauti, 21
+Tibeni hc, 27
+Dornesti, 33
+Radauti Gara Mica h, 40
+Radauti, 41
+Horodnic hc, 46
+Galanesti, 53
+Vicov h, 56
+Vicovu de Jos hc, 59
+Vicovu de Sus hc, 61
+Bivolaria hc, 64
+Gura Putnei, 67
+Putna Troita h, 69
+Putna Centru h, 71
+Putna, 73

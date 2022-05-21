@@ -1,0 +1,22 @@
+Oradea, 0
+Oradea Est, 4
+Osorhei, 10
+Tileagd, 23
+Alesd, 35
+Vadu Crisului, 47
+Suncuius, 54
+Bratca, 60
+Stana de Vale hc, 64
+Piatra Craiului, 70
+Lacu Crisului h, 74
+Negreni h, 78
+Ciucea, 80
+Valea Draganului hc, 84
+Poieni, 87
+Bologa hc, 90
+Braisoru, 93
+Huedin, 102
+Aghires hc, 121
+Aghires, 124
+Garbau, 132
+Cluj Napoca, 152

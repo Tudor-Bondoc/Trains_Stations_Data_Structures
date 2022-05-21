@@ -1,0 +1,10 @@
+Bucuresti Nord, 0
+Ploiesti Sud, 59
+Buzau, 128
+Focsani, 199
+Tecuci, 236
+Barlad, 286
+Vaslui, 339
+Barnova, 388
+Nicolina, 404
+Iasi, 406

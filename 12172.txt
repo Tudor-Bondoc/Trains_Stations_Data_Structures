@@ -1,0 +1,22 @@
+Bucuresti Nord, 0
+Videle, 51
+Galateni, 67
+Olteni, 74
+Vartoapele hc, 80
+Radoiesti Hm, 85
+Atirnati, 93
+Rosiori Nord, 100
+Caracal, 156
+Craiova, 209
+Filiasi, 245
+Strehaia hc, 271
+Balota, 304
+Drobeta Turnu Severin, 323
+Orsova, 347
+Baile Herculane, 364
+Slatina Timis, 414
+Caransebes, 435
+Lugoj, 474
+Timisoara Nord, 533
+Arad, 590
+Curtici, 607

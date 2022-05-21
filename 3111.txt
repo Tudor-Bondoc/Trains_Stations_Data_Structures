@@ -1,0 +1,18 @@
+Arad, 0
+Utvinis hc, 10
+Zimandu Nou hc, 13
+Santana, 23
+Comlaus hc, 27
+Simand, 35
+Nadab, 42
+Chisineu Cris, 47
+Zerind, 55
+Tamasda, 62
+Boiu Bihor hc, 67
+Ciumeghiu, 71
+Salonta, 81
+Madaras Bihor hc, 84
+Cefa, 93
+Les Bihor Hm, 104
+Oradea Vest, 115
+Oradea, 121

@@ -1,0 +1,24 @@
+Bucuresti Nord, 0
+Ploiesti Sud, 59
+Mizil, 93
+Buzau, 128
+Ramnicu Sarat, 161
+Focsani, 199
+Marasesti, 219
+Adjud, 244
+Bacau, 302
+Roman, 346
+Pascani, 386
+Dolhasca, 407
+Veresti, 432
+Suceava, 447
+Gura Humorului Oras, 494
+Frasin, 501
+Vama, 510
+Campulung Est, 522
+Campulung Moldovenesc, 526
+Pojorata, 532
+Mestecanis, 547
+Iacobeni, 553
+Vatra Dornei, 563
+Vatra Dornei Bai h, 564

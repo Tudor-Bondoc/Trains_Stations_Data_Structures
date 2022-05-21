@@ -1,0 +1,37 @@
+Galati, 0
+Barbosi, 12
+Liesti, 60
+Tecuci, 85
+Barlad, 135
+Crasna, 172
+Vaslui, 188
+Buhaiesti, 211
+Barnova, 237
+Nicolina, 253
+Iasi, 255
+Targu Frumos, 300
+Pascani, 331
+Dolhasca, 352
+Veresti, 377
+Suceava, 392
+Gura Humorului Oras, 439
+Frasin, 446
+Vama, 455
+Campulung Est, 467
+Campulung Moldovenesc, 471
+Pojorata, 477
+Mestecanis, 492
+Iacobeni, 498
+Vatra Dornei, 508
+Vatra Dornei Bai h, 509
+Floreni, 520
+Lunca Ilvei, 552
+Magura Ilvei, 566
+Ilva Mica, 583
+Nasaud, 603
+Salva, 609
+Beclean pe Somes, 631
+Dej, 653
+Dej Calatori, 655
+Gherla, 669
+Cluj Napoca, 714

@@ -1,0 +1,11 @@
+Craiova, 0
+Bals, 31
+Piatra Olt, 44
+Slatina, 61
+Stolnici, 104
+Costesti, 120
+Pitesti, 142
+Golesti, 150
+Gaesti, 180
+Titu, 202
+Bucuresti Nord, 250

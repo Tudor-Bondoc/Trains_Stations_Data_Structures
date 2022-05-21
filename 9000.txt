@@ -1,0 +1,13 @@
+Craiova, 0
+Bordei hc, 1
+Caracal, 53
+Draganesti Olt, 71
+Radomiresti, 83
+Rosiori Nord, 109
+Vartoapele hc, 129
+Olteni, 135
+Galateni, 142
+Videle, 158
+Gradinari, 183
+Bucuresti Basarab h, 207
+Bucuresti Nord, 209

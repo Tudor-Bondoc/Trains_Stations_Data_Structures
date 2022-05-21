@@ -1,0 +1,35 @@
+Bucuresti Basarab, 0
+Bucuresti Basarab h, 1
+Carpati h, 2
+Pajura Hm, 4
+Depoul Buc. Triaj h, 6
+Chitila, 8
+Buftea, 16
+Darza hc, 20
+Peris, 29
+Scrovistea hc, 34
+Crivina, 38
+Prahova, 43
+Brazi, 50
+Ploiesti Triaj hc, 55
+Ploiesti Vest, 58
+Buda, 65
+Floresti Prahova, 77
+Bobolia h, 86
+Campina, 91
+Breaza hc, 96
+Nistoresti hc, 99
+Breaza Nord, 102
+Comarnic, 105
+Posada hc, 110
+Valea Larga Hm, 115
+Sinaia Sud hc, 118
+Sinaia, 120
+Poiana Tapului hc, 125
+Busteni, 128
+Azuga, 132
+Predeal, 139
+Timisu de Sus Hm, 149
+Timisu de Jos hc, 154
+Darste, 159
+Brasov, 165

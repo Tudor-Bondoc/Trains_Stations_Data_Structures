@@ -1,0 +1,9 @@
+Bucuresti Nord, 0
+Ploiesti Sud, 59
+Mizil, 93
+Buzau, 128
+Faurei, 168
+Ianca, 185
+Braila, 228
+Barbosi, 247
+Galati, 259

@@ -1,0 +1,29 @@
+Bucuresti Nord, 0
+Ploiesti Vest, 59
+Campina, 92
+Sinaia, 121
+Busteni, 129
+Azuga, 133
+Predeal, 140
+Brasov, 166
+Rupea, 240
+Sighisoara, 294
+Dumbraveni, 315
+Medias, 333
+Copsa Mica, 344
+Blaj, 374
+Teius, 395
+Aiud, 408
+Razboieni, 429
+Campia Turzii, 446
+Cluj Napoca, 497
+Aghires, 525
+Huedin, 547
+Ciucea, 569
+Bratca, 589
+Alesd, 614
+Oradea, 649
+Sacuieni Bihor, 694
+Valea lui Mihai, 715
+Carei, 746
+Satu Mare, 782

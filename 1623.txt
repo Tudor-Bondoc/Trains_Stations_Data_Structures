@@ -1,0 +1,17 @@
+Bucuresti Nord, 0
+Buftea, 17
+Ploiesti Vest, 59
+Campina, 92
+Comarnic, 106
+Sinaia, 121
+Busteni, 129
+Azuga, 133
+Predeal, 140
+Brasov, 166
+Codlea, 180
+Fagaras, 231
+Ucea, 256
+Avrig, 282
+Podu Olt, 293
+Talmaciu, 297
+Sibiu, 315

@@ -1,0 +1,7 @@
+Bucuresti Nord, 0
+Ploiesti Sud, 59
+Buzau, 128
+Focsani, 199
+Bacau, 302
+Pascani, 386
+Suceava, 447

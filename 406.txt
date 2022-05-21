@@ -1,0 +1,18 @@
+Brasov, 0
+Sfantu Gheorghe, 32
+Baile Tusnad Hm, 66
+Miercurea Ciuc, 95
+Siculeni, 103
+Izvoru Oltului, 120
+Gheorgheni, 150
+Toplita, 184
+Deda, 228
+Saratel, 275
+Beclean pe Somes, 300
+Dej Calatori, 324
+Gherla, 338
+Cluj Napoca, 383
+Huedin, 433
+Alesd, 500
+Oradea, 535
+Episcopia Bihor, 541
